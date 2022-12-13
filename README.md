@@ -63,6 +63,9 @@ $ npm run test:cov
 ```bash
 # mount database
 docker-compose up -d
+
+# mount seed
+http://localhost:3000/api/v2/seed
 ```
 
 ## Support
