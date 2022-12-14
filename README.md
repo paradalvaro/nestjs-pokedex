@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Config the app
+
+```
+Complete the .env.template file and rename to .env
+```
+
 ## Test
 
 ```bash
